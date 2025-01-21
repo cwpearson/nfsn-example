@@ -5,6 +5,7 @@ NearlyFreeSpeech.net is a web hosting serving with usage-based billing.
 In addition to static sites, they offer a variety of built-in services as well as allowing you to host your own long-running daemons i.e., you can bring your own server app.
 
 This repository shows how to use Github actions to
+
 0. Create a new site on NearlyFreeSpeech.net
 1. Building a simple webserver using Go
 2. Creating a wrapper script for the webserver
